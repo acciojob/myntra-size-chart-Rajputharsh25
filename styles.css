@@ -5,13 +5,13 @@ body {
     padding: 40px;
 }
 
-.size-chart-container {
+.container {
     width: 700px;
     margin: auto;
     background-color: #ffffff;
     padding: 25px;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 h2 {
@@ -43,3 +43,4 @@ h2 {
 .size-chart tbody tr:hover {
     background-color: #ffe6ec;
 }
+
